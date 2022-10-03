@@ -1,2 +1,3 @@
-# Company website template
-# 1.. Hack
+# My Company website template ✌
+
+In this repo i had made my company website template 
